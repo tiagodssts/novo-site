@@ -1,6 +1,73 @@
-.estudante-título{
-    text -align:
-    center; }
-    
-    text -align: center;
-    padding: 50px:o;
+* {
+    margin: 0;
+    padding: 0;
+    }
+    .principal {
+        background-image: url(“img/Background.png”);
+        }
+        .container {
+            height: 100vh;
+            background-image: url(“img/Background.png”);
+            background-repeat: no-repeat;
+            }
+
+    .principal {
+        background-repeat: no-repeat;
+background-size: contain;
+align-items: center;
+text-align: center;
+    }
+    .container__botao {
+        background-color: var(--botao-azul);
+        border-radius: 5px;
+        padding: 1em;
+        color: var(--branco-principal);
+        .container {
+            height: 100vh;
+            display:grid;
+            display:grid;
+grid-template-columns: 50% 50%;
+display: block;
+text-decoration: none;
+margin-bottom: 1em;
+}
+.container__aviso {
+font-size:12px;
+color: var(--cinza-secundario);
+}
+.container__titulo {
+    font-size:28px;
+    font-weight: 700;
+    }
+    .container__imagem {
+        margin: 1em 0 2em 0;
+        }
+        .container__caixa{
+            margin: 0 6em;
+            }
+            .secundario__imagem {
+                width: 80%;
+                }
+                .secundario {
+                    align-items: center;
+                    margin:0 10em;
+                    }
+                    .descricao__titulo {
+                        font-weight: 700;
+                        font-size:48px;
+                        color:var(--branco-principal);
+                        }
+                        color:var(--branco-principal);
+                        margin-bottom: 0.1em;
+                        .descricao__texto {
+                            color: var(--cinza-secundario);
+                            }
+                            </div>
+                            <img src=”img/Só o Combo+.png” alt=”Tela da Alura Plus e da Alura língua» class=”secundario__imagem”>
+                            .secundario__botao {
+                                display: inline-block;
+                                margin-top: 1em;
+                                }
+                                .container__descricao {
+                                    padding: 2em;
+                                    }
